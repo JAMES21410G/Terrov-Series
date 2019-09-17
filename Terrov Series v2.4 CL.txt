@@ -1,0 +1,229 @@
+Comparison version 2.3 Changelog. Revision [09/13/2019] Canadian Format. 
+
+Version 2.4 
+
+Visualsettings.dat (Time Spent Editing = "3h" updated "September 16th 2019")
+ 
+	- Vehicle light beam distance corrected to be slightly shortened. 
+	- Vehicle Light beam light intensity corrected to be dimmed by approx 25%. 
+	- Vehicle Light beam angle corrected to be less wide at max intensity. 
+	
+	- Vehicle Headlight Emissives Night/Day [ON] corrected to be less intensity. 
+	- Vehicle Taillight Emissives Night/Day [ON] corrected to be more intensity. 
+	- Vehicle EMS/Default Emissives Night/Day [ON] corrected to be adjusted according to preference (addons) 
+	- Vehicle Interior Light Emissives Night/Day [ON] corrected to be less intensity. 
+	
+	- General Coronas corrected to be smaller. 
+	- General Coronas corrected to be less intensity. 
+	- General Coronas corrected to have max distance as according. 
+	
+	- General Distance Lighting corrected to have max distance as according. 
+	- General Distance Lighting Flares size corrected for appropriate distance. 
+	
+	- Helicopter Light Intensity corrected to be more intensity. 
+	
+	- Water Refraction Lighting corrected to have max distance as according. 
+	
+	- Other Lighting Related value corrected are irrelivant to differences visually however greater performance. 
+	
+	- PostFX bloom corrected for greater intensity to not rely on ReShade method. 
+	
+	- Puddle size corrected for preference (addons) 
+	
+__________________________________
+	
+Timecycles (24H Clock) (Time Spent Editing = "10h" updated "September 16th 2019") 
+
+	Extrasunny.xml 
+	
+		5:00
+			
+			- All Colour Values and Intensity corrected for smooth transition and style. 
+			
+		6:00 
+		
+			- All Colour Values and Intensity corrected for smooth transition and style. Cloud colour, size, intensity, geometrics corrected for realism. 
+		
+		7:00
+		
+			- All Colour Values and Intensity corrected for smooth transition and style.
+			
+		8:00 
+		
+			- All Colour Values and Intensity corrected for smooth transition and style.
+			
+		9:00
+		
+			- All Colour Values and Intensity corrected for smooth transition and style.
+			
+		10:00
+		
+			-
+			
+		11:00
+		
+			- 
+
+		12:00
+
+			- Azimuth Colours corrected to equal colours. Directional lighting colour corrected to be more white than orange. Shadows corrected to be darker.
+			Sun size, colour, brightness corrected for realism. 
+			
+		1:00
+		
+			- 
+			
+		4:00 
+		
+			- 
+			
+		5:00
+		
+			- 
+			
+		6:00 
+		
+			- 
+			
+		7:00 
+		
+			- 
+			
+		8:00 
+		
+			- 
+			
+		9:00 
+		
+			- 
+			
+		10:00 
+		
+			- 
+			
+		11:00 
+		
+			- 
+			
+		0:00
+		
+			- Brightness has been corrected according to preference - DARKENED - (addons). Moon colour, size, brightness corrected for realism. Azimuth colours corrected from blue to black.
+			Lighting brightness, colour corrected for realistic intensity. 
+			
+__________________________________
+
+Weather.xml (Time Spent Editing = "30m" updated "September 16th 2019") 
+
+	- Cloud cover for each value corrected for each timecycle. 
+	
+	- Wind amounts corrected for each timecycle
+	
+	- Rain amounts corrected for each timecycle (Specific ones) 
+	
+__________________________________
+
+Weather Emissions and Rendering (Time Spent Editing = "45m" updated "September 16th 2019") 
+
+	Clearing_Render_Drop.xml
+		
+		- Size and Colours corrected. 
+		
+	Clearing_Render_Ground.xml
+	
+		- Size, Colour, Distortion, Fade corrected. 
+
+	Desert_Emitter_Ground.xml
+	
+		- Velocity, Life, Size corrected.
+		
+	Desert_Emitter_Ground_Heavy.xml
+	
+		- Velocity, Life, Size corrected.
+		
+	Desert_Render_Ground.xml
+	
+		- Size, Colour, Distortion, Fade corrected. 
+		
+	Desert_Render_Ground_Heavy.xml
+	
+		- Velocity, Life, Size corrected. 
+
+	Rainstorm_Emitter_Drop.xml
+	
+		- Size and Colours corrected.
+		
+	Rainstorm_Render_Drop.xml
+	
+		- Size, Colour, Distortion, Fade corrected.
+		
+	Rainstorm_Render_Ground.xml
+	
+		- Size, Colour, Distortion, Fade corrected.
+		
+	Snowheavy_Emitter_Ground.xml
+	
+		- Velocity, Life, Size corrected.
+		
+	Snowheavy_Render_Ground.xml
+	
+		- Size, Colour, Distortion, Fade corrected.
+		
+	Thunder_Emitter_Drop.xml
+	
+		- Size and Colours corrected.
+		
+	Thunder_Render_Drop.xml
+	
+		- Size, Colour, Distortion, Fade corrected.
+		
+	Thunder_Render_Ground.xml
+	
+		- Size, Colour, Distortion, Fade corrected.
+		
+__________________________________
+	
+hbaosettings.xml (Time Spent Editing = "15m" updated "September 16th 2019") 
+	
+	Relative Strength 
+		
+		- Corrected Intensity and Maximum. 
+		
+	Max Pixels
+		
+		- Corrected Maximum. 
+		
+__________________________________
+
+Cloudkeyframes.xml
+
+__________________________________
+
+Clouds.xml
+
+__________________________________
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
