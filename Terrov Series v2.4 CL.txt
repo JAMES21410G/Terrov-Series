@@ -32,7 +32,7 @@ Visualsettings.dat (Time Spent Editing = "3h" updated "September 16th 2019")
 	
 __________________________________
 	
-Timecycles (24H Clock) (Time Spent Editing = "10h" updated "September 16th 2019") 
+Timecycles (24H Clock) (Time Spent Editing = "15h" updated "September 16th 2019") 
 
 	Extrasunny.xml 
 	
@@ -42,7 +42,7 @@ Timecycles (24H Clock) (Time Spent Editing = "10h" updated "September 16th 2019"
 			
 		6:00 
 		
-			- All Colour Values and Intensity corrected for smooth transition and style. Cloud colour, size, intensity, geometrics corrected for realism. 
+			- All Colour Values and Intensity corrected for smooth transition and style. Cloud colour, size, intensity, geometrics corrected for realism. Lighting Coloring, intensity, size corrected according to azimuth coloring. 
 		
 		7:00
 		
@@ -69,13 +69,9 @@ Timecycles (24H Clock) (Time Spent Editing = "10h" updated "September 16th 2019"
 			- Azimuth Colours corrected to equal colours. Directional lighting colour corrected to be more white than orange. Shadows corrected to be darker.
 			Sun size, colour, brightness corrected for realism. 
 			
-		1:00
-		
-			- 
-			
 		4:00 
 		
-			- 
+			- Corrected Lighting colors and intensity. Corrected Sun size, lighting intensity and colors. Azimuth colors corrected to look more realistic. corrected and fixed azimuth transition position, colours and intensity. Experimental fog changes to make areas more clear and realistic. Fog colors corrected according to lighting changes. 
 			
 		5:00
 		
