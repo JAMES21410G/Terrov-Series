@@ -32,7 +32,7 @@ Visualsettings.dat (Time Spent Editing = "3h" updated "September 16th 2019")
 	
 __________________________________
 	
-Timecycles (24H Clock) (Time Spent Editing = "15h" updated "September 16th 2019") 
+Timecycles (24H Clock) (Time Spent Editing = "30H" updated "September 16th 2019") 
 
 	Extrasunny.xml 
 	
@@ -56,14 +56,6 @@ Timecycles (24H Clock) (Time Spent Editing = "15h" updated "September 16th 2019"
 		
 			- All Colour Values and Intensity corrected for smooth transition and style.
 			
-		10:00
-		
-			-
-			
-		11:00
-		
-			- 
-
 		12:00
 
 			- Azimuth Colours corrected to equal colours. Directional lighting colour corrected to be more white than orange. Shadows corrected to be darker.
@@ -75,31 +67,31 @@ Timecycles (24H Clock) (Time Spent Editing = "15h" updated "September 16th 2019"
 			
 		5:00
 		
-			- 
+			- Corrected Lighting colors and intensity. Corrected Sun size, lighting intensity and colors. Azimuth colors corrected to look more realistic. corrected and fixed azimuth transition position, colours and intensity. Experimental fog changes to make areas more clear and realistic. Fog colors corrected according to lighting changes. 
 			
 		6:00 
 		
-			- 
+			- Corrected Lighting colors and intensity. Corrected Sun size, lighting intensity and colors. Azimuth colors corrected to look more realistic. corrected and fixed azimuth transition position, colours and intensity. Experimental fog changes to make areas more clear and realistic. Fog colors corrected according to lighting changes. 
 			
 		7:00 
 		
-			- 
+			- Corrected Lighting colors and intensity. Corrected Sun size, lighting intensity and colors. Azimuth colors corrected to look more realistic. corrected and fixed azimuth transition position, colours and intensity. Experimental fog changes to make areas more clear and realistic. Fog colors corrected according to lighting changes. 
 			
 		8:00 
 		
-			- 
+			- Corrected Lighting colors and intensity. Corrected Sun size, lighting intensity and colors. Azimuth colors corrected to look more realistic. corrected and fixed azimuth transition position, colours and intensity. Experimental fog changes to make areas more clear and realistic. Fog colors corrected according to lighting changes. 
 			
 		9:00 
 		
-			- 
+			- Corrected Lighting colors and intensity. Corrected Sun size, lighting intensity and colors. Azimuth colors corrected to look more realistic. corrected and fixed azimuth transition position, colours and intensity. Experimental fog changes to make areas more clear and realistic. Fog colors corrected according to lighting changes. 
 			
 		10:00 
 		
-			- 
+			- Corrected Lighting colors and intensity. Corrected Sun size, lighting intensity and colors. Azimuth colors corrected to look more realistic. corrected and fixed azimuth transition position, colours and intensity. Experimental fog changes to make areas more clear and realistic. Fog colors corrected according to lighting changes. 
 			
 		11:00 
 		
-			- 
+			- Corrected Lighting colors and intensity. Corrected Sun size, lighting intensity and colors. Azimuth colors corrected to look more realistic. corrected and fixed azimuth transition position, colours and intensity. Experimental fog changes to make areas more clear and realistic. Fog colors corrected according to lighting changes. 
 			
 		0:00
 		
