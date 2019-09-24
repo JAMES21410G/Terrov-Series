@@ -2,7 +2,7 @@ Comparison version 2.3 Changelog. Revision [09/13/2019] Canadian Format.
 
 Version 2.4 
 
-Visualsettings.dat (Time Spent Editing = "3h" updated "September 16th 2019")
+Visualsettings.dat (Time Spent Editing = "3h" updated "September 23rd 2019")
  
 	- Vehicle light beam distance corrected to be slightly shortened. 
 	- Vehicle Light beam light intensity corrected to be dimmed by approx 25%. 
